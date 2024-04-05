@@ -1,0 +1,5 @@
+download the data set -> 80MB
+
+https://www.kaggle.com/datasets/raahimrizwan/5-celebrities-face-classification-dataset/data
+
+save the download in PWD
